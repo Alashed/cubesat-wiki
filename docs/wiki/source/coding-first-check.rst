@@ -10,6 +10,15 @@
 - Открыть ``Serial Monitor`` и проверить сообщения старта.
 - Проверить индикацию: buzzer или LED-лента.
 
+Тестовый скетч (из проекта)
+---------------------------
+
+Ниже подключен реальный файл из проекта:
+
+.. literalinclude:: ../../../examples/board_self_test/board_self_test.ino
+   :language: cpp
+   :caption: examples/board_self_test/board_self_test.ino
+
 Ожидаемый результат
 -------------------
 

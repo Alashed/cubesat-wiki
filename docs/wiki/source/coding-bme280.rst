@@ -14,6 +14,21 @@
 2. Чтение параметров в цикле.
 3. Вывод значений в ``Serial Monitor``.
 
+Необходимые библиотеки
+----------------------
+
+Перед загрузкой скетча установите через ``Library Manager``:
+
+- ``Adafruit BME280 Library``
+- ``Adafruit Unified Sensor`` (зависимость)
+
+Пример скетча
+-------------
+
+.. literalinclude:: ../../../examples/bme280_read/bme280_read.ino
+   :language: cpp
+   :caption: examples/bme280_read/bme280_read.ino
+
 Что считать нормой
 ------------------
 

@@ -19,3 +19,10 @@
 
 При одновременной работе SD и nRF24L01+ рекомендуется резистор ``470 Ом``
 в линии MISO со стороны SD-модуля.
+
+Пример скетча (из проекта)
+--------------------------
+
+.. literalinclude:: ../../../examples/sd_card_test/sd_card_test.ino
+   :language: cpp
+   :caption: examples/sd_card_test/sd_card_test.ino

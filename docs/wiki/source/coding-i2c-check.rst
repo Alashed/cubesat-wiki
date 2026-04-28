@@ -10,6 +10,13 @@
 2. Запустите I2C Scanner.
 3. Зафиксируйте найденные адреса.
 
+Тестовый скетч (из проекта)
+---------------------------
+
+.. literalinclude:: ../../../examples/i2c_scanner/i2c_scanner.ino
+   :language: cpp
+   :caption: examples/i2c_scanner/i2c_scanner.ino
+
 Ожидаемые адреса
 ----------------
 

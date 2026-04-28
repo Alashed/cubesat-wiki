@@ -21,3 +21,27 @@
 ----------------
 
 ``nRF24L01+`` питается только от ``3.3V``.
+
+Необходимые библиотеки
+----------------------
+
+Перед загрузкой скетчей установите через ``Library Manager``:
+
+- ``RF24`` (TMRh20)
+
+Примеры скетчей (из проекта)
+----------------------------
+
+Nano TX (передатчик)
+~~~~~~~~~~~~~~~~~~~~
+
+.. literalinclude:: ../../../examples/nrf_test/nrf24_nano_tx/nrf24_nano_tx.ino
+   :language: cpp
+   :caption: examples/nrf_test/nrf24_nano_tx/nrf24_nano_tx.ino
+
+ESP32 RX (приемник)
+~~~~~~~~~~~~~~~~~~~
+
+.. literalinclude:: ../../../examples/nrf_test/nrf24_esp32_rx/nrf24_esp32_rx.ino
+   :language: cpp
+   :caption: examples/nrf_test/nrf24_esp32_rx/nrf24_esp32_rx.ino

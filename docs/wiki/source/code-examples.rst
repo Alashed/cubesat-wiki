@@ -17,8 +17,8 @@
    coding-bme280
    coding-ccs811
    coding-mpu9250
-   coding-gps
    coding-sd
+   coding-gps
    coding-radio
    coding-base-station
    coding-full-mission

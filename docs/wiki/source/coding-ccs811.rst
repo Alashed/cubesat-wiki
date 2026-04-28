@@ -13,6 +13,21 @@
 2. Ожидание готовности новых данных.
 3. Чтение и вывод в ``Serial Monitor``.
 
+Необходимые библиотеки
+----------------------
+
+Перед загрузкой скетча установите через ``Library Manager``:
+
+- ``Adafruit CCS811 Library``
+- ``Adafruit BusIO`` (зависимость)
+
+Пример скетча
+-------------
+
+.. literalinclude:: ../../../examples/ccs811_read/ccs811_read.ino
+   :language: cpp
+   :caption: examples/ccs811_read/ccs811_read.ino
+
 Замечания
 ---------
 
