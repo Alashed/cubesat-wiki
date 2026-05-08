@@ -21,3 +21,4 @@ Wiki образовательного набора CubeSat 1U
    wiring-diagram
    code-examples
    safety-and-launch
+   useful-links
