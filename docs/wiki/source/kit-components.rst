@@ -84,10 +84,15 @@
           :alt: Источник питания
      - Источник питания (батарейный блок)
      - 1
-   * - .. image:: _static/cubesat-kit-components-on-table.png
+   * - .. image:: _static/50.jpeg
           :width: 110px
           :alt: Корпус CubeSat 1U
      - 3D-печатный корпус 1U CubeSat
      - 1
+   * - .. image:: _static/24.jpeg
+          :width: 110px
+          :alt: Солнечная панель
+     - Солнечная панель
+     - 2
 
 
